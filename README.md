@@ -1,6 +1,6 @@
 # Web Scraping and Analyzing Performance of Your Content (Posts) on LinkedIn
 
-*"Is the number of likes I get on LinkedIn went up or down over the past year?"*
+*"Has the number of likes I get on LinkedIn went up or down over the past year?"*
 
 **Here is what the program does:**
 
