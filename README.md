@@ -15,6 +15,6 @@
 
 See the Python script in this repository for detailed comments and explanations.
 
-Note: initial version only works through an IDEA.
+Note: initial version only works through an IDEA. A user-friendly software is currently in planning stage.
 
 *Author:  Stanislav "Stas" Lukashevich*
